@@ -188,7 +188,7 @@ p.note { display: none; }
 <h2><span class="yellow">今回は立ち読みのみ</span></h2>
 <a href="20260729_008.JPG" target="_blank"><img src="20260729_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">本屋さん出たら、かわちプールの選手コースメンバーにバッタリ、記念撮影！</span></h2>
+<h2><span class="yellow">本屋さん出たら、かわちプールの選手コースメンバーにバッタリ、記念撮影！<br>中３の栃木県代表選手（真ん中）</span></h2>
 <a href="20260729_009.JPG" target="_blank"><img src="20260729_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">知り合いがお勧めの「ホモ・デウス」もしっかり立ち読み</span></h2>
